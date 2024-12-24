@@ -1,3 +1,8 @@
+https://israt-esha.github.io/STOP-WATCH/
+This is a stop watch app. The SQL command for this app are following below
+
+
+
 1. Create a Database
 CREATE DATABASE StopwatchApp;
 
